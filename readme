@@ -1,1 +1,4 @@
-
+Análise de sentimentos dos tweets mencionando os candidatos presidenciais da eleição brasileira de 2022 durante o período do 2o turno. Variação por dia, do sentimento conforme as seguintes classificações:
+positivo (para o candidato) = 2
+sem contexto suficiente = 1
+negativo (para o candidato) = 0
